@@ -12,5 +12,4 @@ It does not contain the private Nexio source code.
 
 ## Current release flow
 
-- Source code stays private in the main Nexio repository
 - Public APK builds are published here as GitHub Releases
